@@ -1,3 +1,9 @@
+#Test your react knowledge by answering a quick react quiz : https://react-quiz-sharan.vercel.app/
+![image](https://github.com/Sharanupatil8/React-quiz/assets/93566630/d4b9de49-fcd0-4df9-b831-9aba4d0202bd)
+![image](https://github.com/Sharanupatil8/React-quiz/assets/93566630/1bea51ec-aa7f-461d-962f-02a031280a83)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
