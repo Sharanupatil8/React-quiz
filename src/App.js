@@ -65,7 +65,7 @@ function reducer(state, action) {
         ...initialstate,
         questions: state.questions,
         status: "ready",
-        secondsRemaining: 6,
+        secondsRemaining: state.questions.length * SECS_PER_QUESTION,
       };
     case "tick":
       return {
